@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/chalory/chalory/blob/main/ch_pino.gif" width="48">
+<img src="https://github.com/chalory/chalory/blob/main/ch_pino.gif" width="500">
 
 </div>  
   
