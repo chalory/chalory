@@ -7,7 +7,7 @@
 ### <div align="center">I'm Chantal, a passionate coder that loves to tinker and learn new things. </div>  
   
 
-- 🌱 I’m currently learning Golang  
+- 🍂 I’m currently learning Golang  
   
 
 <br/>  
