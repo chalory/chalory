@@ -1,5 +1,5 @@
 <div align="center">
-<img style=”margin: 10px” https://github.com/chalory/chalory/blob/main/ch_pino.gif" alt=”React” height=”50" />
+<img style=”margin: 10px” https://github.com/chalory/chalory/blob/main/ch_pino.gif"height=”50" />
 </div>  
   
 
