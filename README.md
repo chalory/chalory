@@ -1,5 +1,6 @@
 <div align="center">
-<img style=”margin: 10px” https://github.com/chalory/chalory/blob/main/ch_pino.gif"height=”50" />
+<img src="https://github.com/chalory/chalory/blob/main/ch_pino.gif" width="48">
+
 </div>  
   
 
