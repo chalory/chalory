@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/chalory/chalory/blob/main/ch_pino.gif" width="500">
+
 
 </div>  
   
@@ -7,7 +7,6 @@
 ### <div align="center">I'm Chantal, a passionate coder that loves to tinker and learn new things. </div>  
   
 
-- 🍂 I’m currently learning Golang  
   
 
 <br/>  
