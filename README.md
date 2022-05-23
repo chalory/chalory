@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Chantal, a passionate coder that loves to tinker and learn new things. </div>  
+### <div align="center">Heyo, it's Chantal.  </div>  
   
 
   
