@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">Hiya, I'm Chantal 👋 </div>  
+### <div align="center">Hello, I'm Chantal 👋 </div>  
   
 
   
