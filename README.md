@@ -3,7 +3,7 @@
 
 </div>
 
-### <div align="center">Hello, I'm a Fullstack Software Developer 👋 </div>
+### <div align="center">Hello, hope to connect with you 👋 </div>
 
 # 💻 Tech Stack:
 
